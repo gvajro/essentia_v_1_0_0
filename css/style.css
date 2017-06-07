@@ -226,12 +226,7 @@ display: flex;
 height: 450px;
 }
 
-.work__box--img img{
-height: 500px;
-position: absolute;
-opacity: 2px;
-z-index: 2;
-}
+
 
 .work__box--img a:hover{
 opacity: 0.3;
