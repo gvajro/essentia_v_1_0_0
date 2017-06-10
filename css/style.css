@@ -50,6 +50,7 @@ header {
 }
 
 .navbar-brand {
+<<<<<<< HEAD
 	display: flex;
 justify-content: center;
 align-items: center;
@@ -60,6 +61,10 @@ line-height: 20px;
 max-width: 50px;
 }
 
+=======
+
+  }
+>>>>>>> origin/master
   .navbar-brand img{
   width: 130px;
   }
@@ -226,7 +231,6 @@ height: 150px;
 
 .slide__img{
 width: 250px;
-height: 250px;
 }
 
 .work__box{
@@ -234,7 +238,10 @@ display: flex;
 height: 450px;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 
 .work__box--img a:hover{
 opacity: 0.3;
